@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pjleclair
 - 👀 I’m interested in ... Javascript / ReactJS!
 - 🌱 I’m currently learning ... ReactJS!
-- 💞️ I’m looking to collaborate on ... anything web3 oriented!
+- 💞️ I’m looking to collaborate on ... anything crypto/nft/web3 oriented!
 - 📫 How to reach me ... twitter @phillipleclair
 
 <!---
