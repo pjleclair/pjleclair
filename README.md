@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pjleclair
-- 👀 I’m interested in ... Javascript / ReactJS!
+- 👀 I’m interested in ... TypeScript / Next.js!
 - 🌱 I’m currently learning ... TypeScript!
-- 💞️ I’m looking to collaborate on ... anything AI related!
+- 💞️ I’m looking to collaborate on ... anything AI or crypto related!
 - 📫 How to reach me ... twitter @phillipleclair
 
 <!---
