@@ -1,4 +1,4 @@
-# Hi, I'm [Phillip LeClair](x.com/phillipleclair)! 
+# Hi, I'm [Phillip LeClair](https://twitter.com/phillipleclair)! 
 
 I'm an MSCS student at Northeastern's [Roux Institute](https://roux.northeastern.edu/).
 
