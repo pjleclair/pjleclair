@@ -1,7 +1,5 @@
-# Hi, I'm [Phillip LeClair](https://twitter.com/phillipleclair)! 
+### Hi, I'm [Phillip LeClair](https://twitter.com/phillipleclair)! 
 
-I'm an MSCS student at Northeastern's [Roux Institute](https://roux.northeastern.edu/).
+## I'm a Frontend Developer & MSCS student at Northeastern's [Roux Institute](https://roux.northeastern.edu/).
 
-Interested in collaborating on AI 🤖 or Web3 🔐 projects? Feel free to DM!
-
-## You can also find me at [LeClair.eth](https://leclair.eth.co/)
+## You can also find me at [LeClair.eth](https://leclair.eth.co/).
